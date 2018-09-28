@@ -1,0 +1,15 @@
+{
+  "name": "magic-square",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "single-line-log": "^1.1.2"
+  }
+}
