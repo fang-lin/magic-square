@@ -98,4 +98,4 @@ console.log('');
 allMagicSquares.map(printSquare);
 
 
-console.log(123)
+
